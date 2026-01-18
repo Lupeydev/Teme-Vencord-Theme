@@ -1,0 +1,35 @@
+/**
+ * @name Teme
+ * @description Yo
+ * @version 6.7
+ * @author Lupeydev
+ */
+
+html, body, #app-mount, .app-2rEoOp {
+    background-color: #0808be !important;
+    color: #ffffff !important;
+}
+
+.container‑327bqR {
+    background-color: #0808be !important;
+}
+
+.chat‑3bRxxu, .members‑1894I6 {
+    background-color: #0f3460 !important;
+}
+
+a {
+    color: #37c5be !important;
+}
+a:hover {
+    color: #346aff !important;
+}
+
+.theme-dark {
+    --brand-experiment-900: #0f3460 !important;
+    --interactive-active: #e94560 !important;
+}
+
+* {
+    color: #c4a1c1 !important;
+}
