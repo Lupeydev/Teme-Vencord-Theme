@@ -31,5 +31,5 @@ a:hover {
 }
 
 * {
-    color: #ca6ec3 !important;
+    color: linear-gradient(180deg, purple, blue) !important;
 }
