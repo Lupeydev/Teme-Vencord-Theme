@@ -31,7 +31,5 @@ a:hover {
 }
 
 * {
-     background: linear-gradient(180deg, purple, blue) !important;
-    -webkit-background-clip: text !important;
-    -webkit-text-fill-color: transparent !important;
+    color: #8a2be2 !important;
 }
